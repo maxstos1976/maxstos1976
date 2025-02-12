@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center; align-items: center; height: 8vh; margin: 0;">
-    <img src="https://uspto.report/TM/90730892/mark.png" />
+    <img src="https://uspto.report/TM/90730892/mark.png" style="margin: 0" />
 </div>
 
 ### 👋 Hi my name is
