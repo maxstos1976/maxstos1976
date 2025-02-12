@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Im Max Coelho, and **_OPEN TO WORK_**
+# Im Max Coelho, and I **_OPEN TO WORK_**
 
 > **Computer engineer**
 
