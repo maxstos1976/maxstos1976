@@ -1,8 +1,8 @@
-![OPEN TO WORK](https://uspto.report/TM/90730892/mark.png)
+<div style="display: flex; justify-content: center; align-items: center; height: 10vh; margin: 0;">
+    <img src="https://uspto.report/TM/90730892/mark.png" style="max-width: 60%;"/>
+</div>
 
-### Hi 👋
-
-My name is
+### 👋 Hi my name is
 
 # Max Coelho
 
